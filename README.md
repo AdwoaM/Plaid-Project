@@ -2,6 +2,7 @@
 
 <div> <img src="Plaid_Logo.wine.png" align="center"
       width="700" height="800"> </div>
+      
 ## Overview and Origin
 Plaid is a financial services company based in San Francisco, California. 
 The company specializes in building data transfer networks that powers fintech and digital finance products. Plaid’s product, a technology platform, enables applications to connect with user’s bank accounts. It allows consumers and businesses to interact with their bank accounts, check balances, and make payments through different financial technology applications. Currently, the company operates in countries like U.S., Canada, UK, France Spain, Ireland and the Netherlands.
@@ -19,6 +20,7 @@ December 2018, the company announced a $250 million Series C round with a valuat
 | Series D	| April 7, 2021 | Altimeter Capital | $425 million| $13.4 billion |
 
 [Wikipedia] (https://en.wikipedia.org/wiki/Plaid_Inc.)
+
 ## Business Activities
 Plaid is committed to making it easy for people to securely connect their financial accounts to the fintech services they choose. Plaid has supports over 12,000 financial institutions so the over 8000 digital financial services built on Plaid can be accessible to everyone.
 Plaid works with companies that want to onboard new users, connect user bank accounts, enable ACH payments, get transactions history, underwrite loans, prevent NSF/Overdraft fees, reduce fraud risk, avoid credit card fees creating a path to money happiness.According to 6sense website, Plaid’s current customers are estimated to be 8211, capped at a market share of 81.97%, ranging from industries like Education (loan Originators), Fintech, Technology, Advocacy, Fundraising, Financial services, Marketing, among others. 
@@ -35,6 +37,7 @@ Plaid uses secure cloud infrastructure technologies to enable quick and safe con
       width="700" height="800"> </div>
  <div> <img src="Image_3.png" align="center"
       width="700" height="800"> </div>
+      
 ## Business Model
 Plaid operates under a freemium usage-based model, meaning that its core set of products can be tested for free with the possibility to upgrade to a paid plan with greater capabilities.
 Plaid has three main pricing models that govern its products: One-Time Fees, Per Request Fees, and Subscription Fees.
@@ -59,8 +62,10 @@ Some embedded financial services have been around for a while, like airline cred
       width="700" height="800"> </div>
 > Plaid faces stiff competition from a fellow disruptor company Stripe; which recently announced a new product called Financial Connections which will allow customers a way to connect directly to their customer’s bank accounts, providing access to financial data to sped up certain transactions. 
 Other competitors include,  Galileo Financial technologies, Akoya, Finicity, Synapse, Codat
+
 ## Results
 Without Plaid, being a third party, whose technology links bank accounts to fintech apps like Robinhood, Coinbase, Venmo, start-ups would have had to hire their own engineers and create their own ways to sync with banks. For companies, Plaid offers a simple yet secure way to connect with customer’s financial data. Their API gives businesses the opportunity to easily access, manage and use the financial data of their customers allowing for a more congruent, effective and personalized experience. For Developers, it simplifies the process of working with financial data which allows them to build financial software and for consumers, Plaid offers a secure way to manage their finances, and security measures to protect user’s data.
+
 ## Controversies
 * The company has faced controversy for scraping user data, impersonating bank login screens, and not properly disclosing the privacy risks associated with the service. TD Bank filed a lawsuit against Plaid in 2020 accusing the company of trying to "dupe" its users.
 * In 2021, Plaid settled a $58 million class action lawsuit over claims that it passed on personal banking data to third party firms without user consent. The settlement encompasses five separate lawsuits combined as one. Each claim that Plaid used consumers’ banking login credentials to gather and distribute detailed financial data without prior consent.
