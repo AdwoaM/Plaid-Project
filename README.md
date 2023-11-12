@@ -34,7 +34,7 @@ Plaid uses secure cloud infrastructure technologies to enable quick and safe con
       width="700" height="800"> </div>
       <div> <Image_2.png" align="center"
       width="700" height="800"> </div>
-            <div> <img src="PImage_3png" align="center"
+            <div> <img src="PImage_3.png" align="center"
       width="700" height="800"> </div>
 ## Business Model
 Plaid operates under a freemium usage-based model, meaning that its core set of products can be tested for free with the possibility to upgrade to a paid plan with greater capabilities.
