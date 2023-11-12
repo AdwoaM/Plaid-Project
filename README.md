@@ -60,7 +60,7 @@ Some embedded financial services have been around for a while, like airline cred
       width="700" height="800"> </div>
       <div> <img src="Image_6.png" align="center"
       width="700" height="800"> </div>
-> Plaid faces stiff competition from a fellow disruptor company Stripe; which recently announced a new product called Financial Connections which will allow customers a way to connect directly to their customer’s bank accounts, providing access to financial data to sped up certain transactions. 
+>Plaid faces stiff competition from a fellow disruptor company Stripe; which recently announced a new product called Financial Connections which will allow customers a way to connect directly to their customer’s bank accounts, providing access to financial data to sped up certain transactions. 
 Other competitors include,  Galileo Financial technologies, Akoya, Finicity, Synapse, Codat
 
 ## Results
