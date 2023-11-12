@@ -1,6 +1,7 @@
 # Title
 Plaid
-![Plaid] (Plaid_logo.svg.png)
+<img src="Plaid_logo.svg.png" align="right"
+      width="120" height="178">
 ## Overview and Origin
 Plaid is a financial services company based in San Francisco, California. 
 The company specializes in building data transfer networks that powers fintech and digital finance products. Plaid’s product, a technology platform, enables applications to connect with user’s bank accounts. It allows consumers and businesses to interact with their bank accounts, check balances, and make payments through different financial technology applications. Currently, the company operates in countries like U.S., Canada, UK, France Spain, Ireland and the Netherlands.
@@ -36,7 +37,7 @@ Plaid has three main pricing models that govern its products: One-Time Fees, Per
 * One-time fees are associated with one-time tasks. For Plaid, this pricing model governs products such as Auth, which authorizes a user’s account and verifies their identity and is typically a one-time occurrence.
 * Per Request fees are incurred for each successful API call (request) to a product endpoint asking to provide a specific service or piece of information. This type of fee governs Plaid’s products and services such as Asset Reports and Balance checks.
 * Subscriptions fees entail items that occur repeatedly and will incur a monthly fee as long as the item exists. For instance, Plaid’s Transactions product allows a company to check a user’s transactions, an action that is charges on a per connection, per month basis.
-![souce:Plaid] (Image_7.png)
+![Source:Plaid] (Image_7.png)
 
  
 ## Landscape
