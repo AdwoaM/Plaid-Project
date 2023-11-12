@@ -31,10 +31,9 @@ Additional products are being released, indicative of Plaid’s goal to create a
 Plaid uses secure cloud infrastructure technologies to enable quick and safe connection, the combination of AES-256 AND TLS help keep personal information sage end-to-end. Plaid’s API are continuously monitored by their info security team as well as security researchers who seek to regularly audit the API and security controls.
 > Technologies that Plaid are
  <div> <img src="Image_1.png" align="center"
+      width="700" height="800"> </div> <div> <img src="Image_2.png" align="center"
       width="700" height="800"> </div>
- <div> <Image_2.png" align="center"
-      width="700" height="800"> </div>
- <div> <img src="PImage_3.png" align="center"
+ <div> <img src="Image_3.png" align="center"
       width="700" height="800"> </div>
 ## Business Model
 Plaid operates under a freemium usage-based model, meaning that its core set of products can be tested for free with the possibility to upgrade to a paid plan with greater capabilities.
