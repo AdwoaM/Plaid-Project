@@ -32,8 +32,7 @@ Additional products are being released, indicative of Plaid’s goal to create a
 > In October 2022, Plaid launched its first crypto product called Wallet Onboard. With Wallet Onboard, Plaid is bringing its account linking technology to web3. Specifically, the product allows web3 developers to offer integrations with over 300 wallets including MetaMask, Coinbase Wallet, and Trust. Similar to linking a bank account, users can connect their wallet of choice to any Ethereum blockchain-based app. Wallet Onboard marks the start of various Web3 products that Plaid intends on launching.
 Plaid uses secure cloud infrastructure technologies to enable quick and safe connection, the combination of AES-256 AND TLS help keep personal information sage end-to-end. Plaid’s API are continuously monitored by their info security team as well as security researchers who seek to regularly audit the API and security controls.
 > Technologies that Plaid are
- <div> <img src="Image_1.png" align="center"
-      width="700" height="800"> </div> 
+
   <div> <img src="Image_2.png" align="center"
       width="700" height="800"> </div>
  <div> <img src="Image_3.png" align="center"
