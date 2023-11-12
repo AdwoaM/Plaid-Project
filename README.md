@@ -60,8 +60,8 @@ Some embedded financial services have been around for a while, like airline cred
       width="700" height="800"> </div>
       <div> <img src="Image_6.png" align="center"
       width="700" height="800"> </div>
->Plaid faces stiff competition from a fellow disruptor company Stripe; which recently announced a new product called Financial Connections which will allow customers a way to connect directly to their customer’s bank accounts, providing access to financial data to sped up certain transactions. 
-Other competitors include,  Galileo Financial technologies, Akoya, Finicity, Synapse, Codat
+'Plaid faces stiff competition from a fellow disruptor company Stripe; which recently announced a new product called Financial Connections which will allow customers a way to connect directly to their customer’s bank accounts, providing access to financial data to sped up certain transactions. 
+Other competitors include,  Galileo Financial technologies, Akoya, Finicity, Synapse, Codat'
 
 ## Results
 Without Plaid, being a third party, whose technology links bank accounts to fintech apps like Robinhood, Coinbase, Venmo, start-ups would have had to hire their own engineers and create their own ways to sync with banks. For companies, Plaid offers a simple yet secure way to connect with customer’s financial data. Their API gives businesses the opportunity to easily access, manage and use the financial data of their customers allowing for a more congruent, effective and personalized experience. For Developers, it simplifies the process of working with financial data which allows them to build financial software and for consumers, Plaid offers a secure way to manage their finances, and security measures to protect user’s data.
