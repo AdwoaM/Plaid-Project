@@ -1,5 +1,5 @@
-# Title
-## Plaid
+# Plaid
+
 <div> <img src="Plaid_Logo.wine.png" align="center"
       width="700" height="800"> </div>
 ## Overview and Origin
