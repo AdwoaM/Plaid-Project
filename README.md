@@ -29,16 +29,22 @@ Plaid works with companies that want to onboard new users, connect user bank acc
 Additional products are being released, indicative of Plaid’s goal to create a comprehensive account funding solution. Three notable products apart of Plaid’s larger offering are Plaid Portal, Plaid Exchange, and Wallet Onboard. A significant portion of Plaid's recent product updates share a similar theme: data security and privacy. Plaid Portal represents Plaid’s ongoing commitment to establishing transparency with users. Released in January 2022, Plaid Portal is a privacy tool that centralizes all the connections a user has made using Plaid across the entire fintech landscape. More importantly, it gives the user the ability to control which apps can have access to their financial data. Thus, if a user feels inclined to unlink a bank account from a specific app, or even delete information from Plaid’s database, they have the power to do so via Plaid Portal. A second notable tool within Plaid’s larger product offering is Plaid Exchange. Plaid built its reputation on the variety of APIs it offered, all of which were focused on helping developers efficiently access different pieces of financial information for users. With developers taken care of, Plaid’s next frontier was to help financial institutions implement their own APIs. In May 2020, Plaid released Plaid Exchange, which the company described as a way to provide banks with “API connectivity in a box.”
 > In October 2022, Plaid launched its first crypto product called Wallet Onboard. With Wallet Onboard, Plaid is bringing its account linking technology to web3. Specifically, the product allows web3 developers to offer integrations with over 300 wallets including MetaMask, Coinbase Wallet, and Trust. Similar to linking a bank account, users can connect their wallet of choice to any Ethereum blockchain-based app. Wallet Onboard marks the start of various Web3 products that Plaid intends on launching.
 Plaid uses secure cloud infrastructure technologies to enable quick and safe connection, the combination of AES-256 AND TLS help keep personal information sage end-to-end. Plaid’s API are continuously monitored by their info security team as well as security researchers who seek to regularly audit the API and security controls.
-> Technologies that Plaid are ! [from Stackshare] (Image_1.png) (Image_2.png) (Image_3.png)
- 
+> Technologies that Plaid are
+ <div> <img src="Image_1.png" align="center"
+      width="700" height="800"> </div>
+      <div> <Image_2.png" align="center"
+      width="700" height="800"> </div>
+            <div> <img src="PImage_3png" align="center"
+      width="700" height="800"> </div>
 ## Business Model
 Plaid operates under a freemium usage-based model, meaning that its core set of products can be tested for free with the possibility to upgrade to a paid plan with greater capabilities.
 Plaid has three main pricing models that govern its products: One-Time Fees, Per Request Fees, and Subscription Fees.
 * One-time fees are associated with one-time tasks. For Plaid, this pricing model governs products such as Auth, which authorizes a user’s account and verifies their identity and is typically a one-time occurrence.
 * Per Request fees are incurred for each successful API call (request) to a product endpoint asking to provide a specific service or piece of information. This type of fee governs Plaid’s products and services such as Asset Reports and Balance checks.
 * Subscriptions fees entail items that occur repeatedly and will incur a monthly fee as long as the item exists. For instance, Plaid’s Transactions product allows a company to check a user’s transactions, an action that is charges on a per connection, per month basis.
-![Source:Plaid] (Image_7.png)
 
+<div> <img src="Image_7" align="center"
+      width="700" height="800"> </div>
  
 ## Landscape
 
@@ -46,8 +52,12 @@ Plaid is in the Embedded Finance Domain. This phenomenon is enabled by third-par
 Embedded finance can improve the customer experience and unlock a huge market opportunity for businesses, and is projected to rise dramatically in the coming years. It’s estimated that embedded financial services will produce $384.8B in revenue by 2029—a nearly 17x increase over the $22.5B in revenue generated in 2020. Embedded fintech provides a way for financial institutions to offer a wider range of services, engage their customers, and deliver more value. Historically, if a bank wanted to offer a new product, say a new type of investment or a different type of loan, they would need to spend months, if not years, developing, building, and launching a new product. With the rise of embedded fintech, they can embed these offerings in their current products. This lowers the economic risks and allows traditionally slow-moving banking companies to become more nimble and adjust to changing customer needs. [Plaid website] 
 
 Some embedded financial services have been around for a while, like airline credit cards, car rental insurance, and payment plans for high-priced items. Now embedded finance is taking hold online, as e-commerce retailers are offering banking services directly on their websites without re-directing customers to a bank.By opening up new markets and improving customer experiences, embedded finance presents a significant opportunity to both financial service providers and non-financial companies in multiple industries. the Major trends and innovations of this domain with a picturesque view 
-![The rise of Embedded Fiance Journal] (Image_4.png) (Image_5.png) (Image_6.png)
-
+<div> <img src="Image_4.png" align="center"
+      width="700" height="800"> </div>
+      <div> <img src="Image_5.png" align="center"
+      width="700" height="800"> </div>
+      <div> <img src="Image_6.png" align="center"
+      width="700" height="800"> </div>
 > Plaid faces stiff competition from a fellow disruptor company Stripe; which recently announced a new product called Financial Connections which will allow customers a way to connect directly to their customer’s bank accounts, providing access to financial data to sped up certain transactions. 
 Other competitors include,  Galileo Financial technologies, Akoya, Finicity, Synapse, Codat
 ## Results
