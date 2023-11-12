@@ -1,6 +1,6 @@
 # Title
 Plaid
-<img src="Plaid_logo.svg.png" align="center"
+<img src="Plaid_Logo.wine.png" align="center"
       width="120" height="178">
 ## Overview and Origin
 Plaid is a financial services company based in San Francisco, California. 
