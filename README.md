@@ -83,10 +83,7 @@ This will easily help pave the way for Plaid to contribute to non financial inst
 ## Links
 https://plaid.com/resources/fintech/what-is-embedded-finance/
 https://research.contrary.com/reports/plaid
-https://research.contrary.com/reports/plaid
-https://businessmodelanalyst.com/plaid-business-model/#:~:text=Plaid%20Value%20Propositions,-Plaid's%20value%20propositions&text=For%20Companies%3A%20The%20most%20significant,financial%20data%20of%20their%20customers.
 https://businessmodelanalyst.com/plaid-business-model/#:~:text=Plaid%20Value%20Propositions,-Plaid's%20value%20propositions&text=For%20Companies%3A%20The%20most%20significant,financial%20data%20of%20their%20customers.
 https://www.cnbc.com/2022/05/17/plaid-disruptor-50.html
-https://plaid.com/resources/fintech/what-is-embedded-finance/
 https://6sense.com/tech/loan-origination/plaid-market-share
 https://plaid.com/customer-stories/
