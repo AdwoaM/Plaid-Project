@@ -42,7 +42,7 @@ Plaid has three main pricing models that govern its products: One-Time Fees, Per
 * Per Request fees are incurred for each successful API call (request) to a product endpoint asking to provide a specific service or piece of information. This type of fee governs Plaid’s products and services such as Asset Reports and Balance checks.
 * Subscriptions fees entail items that occur repeatedly and will incur a monthly fee as long as the item exists. For instance, Plaid’s Transactions product allows a company to check a user’s transactions, an action that is charges on a per connection, per month basis.
 
-<div> <img src="Image_7" align="center"
+<div> <img src="Image_7.png" align="center"
       width="700" height="800"> </div>
  
 ## Landscape
