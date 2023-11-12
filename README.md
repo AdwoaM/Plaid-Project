@@ -1,7 +1,7 @@
 # Title
 Plaid
 <img src="Plaid_Logo.wine.png" align="center"
-      width="3000" height="2000">
+      width="1500" height="1700">
 ## Overview and Origin
 Plaid is a financial services company based in San Francisco, California. 
 The company specializes in building data transfer networks that powers fintech and digital finance products. Plaid’s product, a technology platform, enables applications to connect with user’s bank accounts. It allows consumers and businesses to interact with their bank accounts, check balances, and make payments through different financial technology applications. Currently, the company operates in countries like U.S., Canada, UK, France Spain, Ireland and the Netherlands.
